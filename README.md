@@ -37,7 +37,7 @@
 ### Thematic_modeling
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  Классификация по тональности отзывов на банки с сайта banki.ru. Данные содержат непосредственно тексты отзывов, некоторую дополнительную информацию, а также оценку по шкале от 1 до 5. Тексты хранятся в json-ах в массиве responses.
+  Классификация по тональности отзывов на банки с сайта banki.ru. Данные содержат непосредственно тексты отзывов, некоторую дополнительную информацию, а также оценку по шкале от 1 до 5.
 
   [Решение](https://github.com/msavilov/Natural_Language_Processing/blob/main/1_Thematic_modeling/thematic_modeling.ipynb)
   
