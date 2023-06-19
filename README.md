@@ -29,24 +29,22 @@
 
   [1. Thematic_modeling](#thematic_modeling)
   
-  [2.Проект](#)
+  [2.NLP_classification](#nlp_classification)
   
   [3.Проект](#)
   
   
 ### Thematic_modeling
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Классификация по тональности отзывов на банки с сайта banki.ru. Данные содержат непосредственно тексты отзывов, некоторую дополнительную информацию, а также оценку по шкале от 1 до 5.
 
   [Решение](https://github.com/msavilov/Natural_Language_Processing/blob/main/1_Thematic_modeling/thematic_modeling.ipynb)
   
-### Проект
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+### NLP_classification
   
-  Описание проекта
+  На основе данных твитов [fakenews](https://raw.githubusercontent.com/diptamath/covid_fake_news/main/data/Constraint_Train.csv) произвести классификацию текста различными методами.
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Natural_Language_Processing/blob/main/2_NLP_classification/nlp_classification.ipynb)
   
 ### Проект
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
