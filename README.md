@@ -31,7 +31,7 @@
   
   [2.NLP_classification](#nlp_classification)
   
-  [3.Проект](#)
+  [3.Syntactic_analysis](#syntactic_analysis)
   
   
 ### Thematic_modeling
@@ -46,10 +46,10 @@
 
   [Решение](https://github.com/msavilov/Natural_Language_Processing/blob/main/2_NLP_classification/nlp_classification.ipynb)
   
-### Проект
+### Syntactic_analysis
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  Описание проекта
+  Составление словарей для классификации по тональности на основе отзывов на банки с сайта banki.ru и применение алгоритмов распространения метки.
   
-  [Решение]()
+  [Решение](https://github.com/msavilov/Natural_Language_Processing/blob/main/3_Syntactic_analysis/syntactic_analysis.ipynb)
   
