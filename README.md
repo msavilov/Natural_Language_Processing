@@ -1,5 +1,5 @@
 # Natural_Language_Processing
-![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+![](https://img.shields.io/badge/Project%20status-Done-green)
 
 ## Оглавление
 
@@ -47,7 +47,6 @@
   [Решение](https://github.com/msavilov/Natural_Language_Processing/blob/main/2_NLP_classification/nlp_classification.ipynb)
   
 ### Syntactic_analysis
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Составление словарей для классификации по тональности на основе отзывов на банки с сайта banki.ru и применение алгоритмов распространения метки.
   
