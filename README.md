@@ -21,6 +21,8 @@
 
 ![](https://img.shields.io/badge/-Python--3.11-blue)
 ![](https://img.shields.io/badge/scikit--learn-blue)
+![](https://img.shields.io/badge/NLP-blue)
+![](https://img.shields.io/badge/gensim-blue)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
 
